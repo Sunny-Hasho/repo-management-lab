@@ -1,1 +1,5 @@
-This repository is created for Lab 03 - Repository Management Using Git & GitHub/GitLab.
+# repo-management-lab
+
+Repository Management Lab
+Updated from main branch
+Updated from feature branch
